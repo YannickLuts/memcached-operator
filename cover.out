@@ -1,0 +1,16 @@
+mode: set
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:48.80,56.66 5 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:60.2,67.42 4 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:85.2,86.34 2 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:97.2,97.27 1 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:56.66,58.3 1 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:67.42,72.17 4 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:77.3,77.41 1 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:72.17,75.4 2 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:78.8,78.23 1 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:78.23,81.3 2 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:86.34,89.17 3 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:89.17,92.4 2 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:100.72,105.2 1 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:108.101,140.2 3 0
+kubecon-workshop/memcached-operator/controllers/memcached_controller.go:143.95,157.2 2 0
